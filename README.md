@@ -28,7 +28,6 @@ Add the technologies your portfolio actually uses.
 - HTML5
 - CSS3
 - JavaScript
-- React.js *(if used)*
 
 ## 📂 Project Structure
 
@@ -41,39 +40,9 @@ my-portfolio/
 └── README.md
 ```
 
-*Your actual folder structure may differ.*
-
-## ⚙️ Getting Started
-
-### Prerequisites
-
-Install [Git](https://git-scm.com/) and [Node.js](https://nodejs.org/) if your project requires them.
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd YOUR-REPOSITORY
-   ```
-
-3. Install dependencies if your project uses npm:
-
-   ```bash
-   npm install
-   ```
-
-4. Start the development server using the command specified in your `package.json`.
-
 ## 🌐 Live Demo
 
-**Live Website:** Add your deployed portfolio URL here.
+**Live Website:** https://personal-portfolio-soti.onrender.com
 
 ## 📬 Connect With Me
 
